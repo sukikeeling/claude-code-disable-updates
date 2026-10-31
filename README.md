@@ -131,3 +131,7 @@ disableAutoUpdates → autoUpdate.disabled
 ---
 
 > 声明：此分析仅用于技术研究目的，帮助用户管理本地软件行为。请遵守 Anthropic 的服务条款。
+
+## 仓库声明
+
+本仓库的署名与参考规范见 [NOTICE](NOTICE)：参考、借鉴或改造本仓库时，请标明来源 sukikeeling/claude-code-disable-updates。
